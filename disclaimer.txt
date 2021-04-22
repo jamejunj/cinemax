@@ -1,0 +1,5 @@
+Just Cinema Management System
+=============================
+
+Content license are retrieve from https://www.sfcinemacity.com/
+for education purposes.
